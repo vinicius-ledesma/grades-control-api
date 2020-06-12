@@ -1,0 +1,22 @@
+{
+  "name": "grades-control-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinicius-ledesma/grades-control-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinicius-ledesma/grades-control-api/issues"
+  },
+  "homepage": "https://github.com/vinicius-ledesma/grades-control-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
